@@ -4,7 +4,7 @@
  * Time: 10:02
  */
 
-namespace App\Repositories\Exceptions;
+namespace Lypzz\Repositories\Exceptions;
 
 class RepositoryException extends \Exception
 {

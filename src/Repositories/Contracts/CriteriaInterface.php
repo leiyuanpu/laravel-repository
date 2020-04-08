@@ -4,9 +4,9 @@
  * Time: 9:58
  */
 
-namespace App\Repositories\Contracts;
+namespace Lypzz\Repositories\Contracts;
 
-use App\Repositories\Criteria\Criteria;
+use Lypzz\Repositories\Criteria\Criteria;
 
 interface CriteriaInterface
 {
