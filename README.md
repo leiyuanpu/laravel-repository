@@ -3,7 +3,7 @@ repository用于抽象数据层，让我们的应用程序更易于维护。
 
 安装
 ~~~
-composer require prettus/l5-repository
+composer require lypzz/laravel-repository
 ~~~
 
 Laravel
