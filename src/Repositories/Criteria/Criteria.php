@@ -4,9 +4,9 @@
  * Time: 10:00
  */
 
-namespace Lypzz\Repositories\Criteria;
+namespace LypZz\Repositories\Criteria;
 
-use Lypzz\Repositories\Eloquent\Repository;
+use LypZz\Repositories\Eloquent\Repository;
 
 abstract class Criteria
 {

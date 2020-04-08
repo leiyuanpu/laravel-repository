@@ -4,7 +4,7 @@
  * Time: 9:58
  */
 
-namespace Lypzz\Repositories\Contracts;
+namespace LypZz\Repositories\Contracts;
 
 interface RepositoryInterface
 {

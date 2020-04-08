@@ -4,12 +4,12 @@
  * Time: 10:00
  */
 
-namespace Lypzz\Repositories\Eloquent;
+namespace LypZz\Repositories\Eloquent;
 
-use Lypzz\Repositories\Contracts\CriteriaInterface;
-use Lypzz\Repositories\Contracts\RepositoryInterface;
-use Lypzz\Repositories\Criteria\Criteria;
-use Lypzz\Repositories\Exceptions\RepositoryException;
+use LypZz\Repositories\Contracts\CriteriaInterface;
+use LypZz\Repositories\Contracts\RepositoryInterface;
+use LypZz\Repositories\Criteria\Criteria;
+use LypZz\Repositories\Exceptions\RepositoryException;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\App;
